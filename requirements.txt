@@ -40,5 +40,4 @@ tornado==6.4.1
 typing-extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.3
-watchdog==5.0.2
 wheel==0.44.0
